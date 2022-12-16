@@ -35,5 +35,5 @@ namespace exercise11_8_3
             label4.Text = trackBar3.Value.ToString();
         }
     }
-}
+} 
  
